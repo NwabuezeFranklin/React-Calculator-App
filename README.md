@@ -8,4 +8,4 @@
 
 [:pager:](https://react-calculator-1.nwabuezefrankli.repl.co/)
 
-### Click on the icon above to access the calculator. :point_up:
+### Click on the icon above to access the calculator... :point_up:
